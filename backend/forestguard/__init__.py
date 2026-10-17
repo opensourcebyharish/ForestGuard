@@ -1,0 +1,1 @@
+"""ForestGuard backend application."""
